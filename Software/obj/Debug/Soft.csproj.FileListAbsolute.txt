@@ -1,0 +1,7 @@
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\bin\Debug\Software.exe.config
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\bin\Debug\Software.exe
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\bin\Debug\Software.pdb
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\obj\Debug\Soft.csprojAssemblyReference.cache
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\obj\Debug\Soft.csproj.CoreCompileInputs.cache
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\obj\Debug\Software.exe
+C:\Users\nikfe\OneDrive\Рабочий стол\bruh\Software\obj\Debug\Software.pdb
